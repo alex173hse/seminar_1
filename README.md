@@ -1,2 +1,6 @@
-# seminar_1
-# I <3 DIGITAL LITERACY
+# Home work
+# Обо мне:
+# Привет, меня зовут Александр, мне 18 лет.
+![картинка](https://m.vk.com/album270153941_0?rev=1&from=profile&z=photo270153941_428126403%2Falbum270153941_0%2Frev)
+# Я учусь в Высшей школе экономики.
+![картинка](https://ru.m.wikipedia.org/wiki/Высшая_школа_экономики#/media/Файл%3AЛоготип_НИУ_ВШЭ.jpg)
